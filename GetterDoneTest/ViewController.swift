@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         //third commetb can you see
         //four carlos
         //5th carlos
+        //we added git ignore :)
     }
 
 
